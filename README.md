@@ -49,8 +49,8 @@
     <ul>
         <li><strong>Using Eclipse</strong>:
             <ol>
-                <li>Navigate to the <code>testng.xml</code> file.</li>
-                <li>Right-click on the <code>testng.xml</code> file and select <code>Run As &gt; TestNG Suite</code>.</li>
+                <li>Navigate to the <code>FoodFlow/src/main/java</code> file.</li>
+                <li>Right-click on the  file and select <code>Run As &gt; TestNG Suite</code>.</li>
                 <li>View the test results in the TestNG Results window.</li>
             </ol>
         </li>
